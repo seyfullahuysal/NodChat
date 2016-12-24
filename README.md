@@ -1,4 +1,5 @@
 **Projeyi çalıştırmak için kurulması gerekenler**
+
 Ubuntu 16.04 ve nodejs 6.9.2 ile test edilmiştir.
 
 **python 2.7.12**
